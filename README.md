@@ -6,7 +6,7 @@
 The primary target audience are professors looking for collaborators or students looking for faculty advisors.
 The objectives of the application is for the users to look up professors and information about their research activity such as their publication and citation history, as well as what venues they publish at. Users can also make notes about professors they might be interested in.
 
-## Demo: https://mediaspace.illinois.edu/media/t/1_omkzmz0s
+## Demo:
 
 Installation: Make sure you have Python 3 and pip installed, we used Python 3.9.12. Also have an instance of academicworld database in Neo4j, MongoDB, and MySQL running. Download the application on this Github page. If necessary, modify the MySQLClient, MyNeo4jClient, and MyMongoClient params in app.py to match the host and port of your DBs.
 
@@ -54,3 +54,4 @@ We used database indexing, stored procedures, and views in the MySQLClient class
 * Held weekly meetings to discuss and implement our changes together through discord, zoom, and github - took 8 hour each
 * Video demo recording and script - took 1 hour each
 
+<img width="1286" alt="image" src="https://user-images.githubusercontent.com/24705872/171320138-89ed6154-0cba-444e-ab43-c113d49b14de.png">
