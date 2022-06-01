@@ -56,6 +56,6 @@ We used database indexing, stored procedures, and views in the MySQLClient class
 
 <img width="1286" alt="image" src="https://user-images.githubusercontent.com/24705872/171320138-89ed6154-0cba-444e-ab43-c113d49b14de.png">
 <img width="1258" alt="image" src="https://user-images.githubusercontent.com/24705872/171320264-c4774097-aa40-41ad-a1c7-328822039395.png">
-<img width="1272" alt="image" src="https://user-images.githubusercontent.com/24705872/171320319-de8e0cae-a4fd-4a5d-b980-4827a6839d23.png">
+<img width="1268" alt="image" src="https://user-images.githubusercontent.com/24705872/171320437-8b8d0180-36a7-4d35-beaa-cfbff421b1b1.png">
 
 
